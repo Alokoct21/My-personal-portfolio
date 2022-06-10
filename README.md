@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Live Site : https://alokoct21.github.io/My-personal-portfolio/
+
+![React App - Google Chrome 6_10_2022 9_10_40 PM](https://user-images.githubusercontent.com/69728237/173101883-ca6cd499-bfc2-421a-b038-9662644761db.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
